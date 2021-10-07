@@ -1,4 +1,4 @@
-# Unity2020.3.18f1-README-Template
+# UE2-shootingIsland
 
 ### Projektbeschreibung: 
 Einführung in / Zusammenfassung des Projektes. 
@@ -10,7 +10,7 @@ Einführung in / Zusammenfassung des Projektes.
 WebGL Referenzauflösung (960x600) 
 
 ### Visuelle Einblicke in das Projekt: 
-Screenshots (Konzept, Spielabschnitte), Video (< 100MB, < 3 min)
+([2021_10_07 10_08 Office Lens.pdf](https://github.com/3ahmns2122mtin/11mseiringer-UE02-shootingIsland/files/7300213/2021_10_07.10_08.Office.Lens.pdf)
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
@@ -33,4 +33,4 @@ Bitte hier nicht, ich kann nicht programmieren, sondern was wurde im Projekt von
 - [ ] Neptune
 - [ ] Comet Haley
 
-Copyright by you :)
+Copyright by mseiringer
