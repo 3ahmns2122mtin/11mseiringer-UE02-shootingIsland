@@ -10,7 +10,7 @@ Einführung in / Zusammenfassung des Projektes.
 WebGL Referenzauflösung (960x600) 
 
 ### Visuelle Einblicke in das Projekt: 
-([2021_10_07 10_08 Office Lens.pdf](https://github.com/3ahmns2122mtin/11mseiringer-UE02-shootingIsland/files/7300213/2021_10_07.10_08.Office.Lens.pdf)
+[2021_10_07 10_08 Office Lens.pdf](https://github.com/3ahmns2122mtin/11mseiringer-UE02-shootingIsland/files/7300213/2021_10_07.10_08.Office.Lens.pdf)
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
