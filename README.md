@@ -7,7 +7,8 @@ Einführung in / Zusammenfassung des Projektes.
 (Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
 
 ### Zielplattform: 
-WebGL Referenzauflösung (960x600) 
+WebGL Referenzauflösung (960x600)
+https://3ahmns2122mtin.github.io/11mseiringer-UE02-shootingIsland/
 
 ### Visuelle Einblicke in das Projekt: 
 ![grafik](https://user-images.githubusercontent.com/90834304/136345909-cfbd3c14-ab23-46e7-84fe-54accd787ae7.png)
