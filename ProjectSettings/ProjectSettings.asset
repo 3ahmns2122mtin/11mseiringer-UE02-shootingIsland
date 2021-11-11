@@ -12,10 +12,10 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: NIZAUSS
+  companyName: mseiringer
   productName: ShootingIsland
   defaultCursor: {fileID: 2800000, guid: c090e2983ebde41459281089219e3724, type: 3}
-  cursorHotspot: {x: 0, y: 0}
+  cursorHotspot: {x: 90, y: 90}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
