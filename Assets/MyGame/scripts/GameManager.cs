@@ -8,17 +8,21 @@ public class GameManager : MonoBehaviour
     public GameObject parentOfTargets;
     public GameObject objCounter;
     public GameObject wonObj;
-    public GameObject shootSound;
+    public GameObject noWoman1;
+    public GameObject noWoman2;
+    public GameObject couldYou1;
+    public GameObject couldYou2;
 
     private Text textCounter;
     private bool won;
     private int score;
+    private int soundrange;
 
     void Start()
     {
         textCounter = objCounter.GetComponent<Text>();
         won = false;
-        InvokeRepeating("Spawn", 1f,2f);
+        InvokeRepeating("Spawn", 3f,4f);
         wonObj.SetActive(false);
 
     }
@@ -50,11 +54,6 @@ public class GameManager : MonoBehaviour
             Debug.Log(won);
         }
 
-        if (Input.GetMouseButtonDown(0))
-        {
-            Debug.Log("Mouse pressed");
-            shootSound.GetComponent<AudioSource>().Play();
-        }
     }
 
     public void IncrementScore()
@@ -63,7 +62,30 @@ public class GameManager : MonoBehaviour
         Debug.Log("increment ... " + score);
         textCounter.text = score.ToString();
 
-        if(score == maxHit)
+        if (Input.GetMouseButtonDown(0))
+        {
+            soundrange = Random.Range(1,5);
+            Debug.Log(soundrange);
+            if (soundrange == 1)
+            {
+                noWoman1.GetComponent<AudioSource>().Play();
+            }
+            if (soundrange == 2)
+            {
+                noWoman2.GetComponent<AudioSource>().Play();
+            }
+            if (soundrange == 3)
+            {
+                couldYou1.GetComponent<AudioSource>().Play();
+            }
+            if (soundrange == 4)
+            {
+                couldYou2.GetComponent<AudioSource>().Play();
+            }
+
+        }
+
+        if (score == maxHit)
         {
             won = true;
         }
