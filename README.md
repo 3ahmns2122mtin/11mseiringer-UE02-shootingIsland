@@ -1,10 +1,10 @@
 # UE2-shootingIsland
 
 ### Projektbeschreibung: 
-Einführung in / Zusammenfassung des Projektes. 
+2D shooter 
 
 ### Entwicklungsplattform: 
-(Betriebsystem, Unity Version, Visual Studio Version, verwendete SDKs)
+Windows, Unity, C#
 
 ### Zielplattform: 
 WebGL Referenzauflösung (960x600)
