@@ -19,7 +19,8 @@ https://3ahmns2122mtin.github.io/11mseiringer-UE02-shootingIsland/
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
 
 ### Drittmaterial: 
-Falls verwendet Fonts, Sounds, Music, Graphics, Materials, Code etc. welches nicht von mir stammt muss hier referenziert werden. 
+Font"MARTINA", Bob Marley picture, Songs:"No Woman no Cry" -Bob Marley "Could you be loved" -Bob Marley
+
   
 ### Anforderungsliste:  
 - [x] WebGL export/upload lauffähig/spielbar
