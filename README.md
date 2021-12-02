@@ -12,7 +12,8 @@ https://3ahmns2122mtin.github.io/11mseiringer-UE02-shootingIsland/
 
 ### Visuelle Einblicke in das Projekt: 
 ![grafik](https://user-images.githubusercontent.com/90834304/136345909-cfbd3c14-ab23-46e7-84fe-54accd787ae7.png)
-![grafik](https://user-images.githubusercontent.com/90834304/138591236-58fcce88-ea83-4ebe-8668-68278699c283.png)
+![grafik](https://user-images.githubusercontent.com/90834304/144372392-243da3dc-a890-49ad-b531-c7a28ce9ea3e.png)
+
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
