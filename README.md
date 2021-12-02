@@ -16,7 +16,7 @@ https://3ahmns2122mtin.github.io/11mseiringer-UE02-shootingIsland/
 
 
 ### Notwendiges für die Ausführung: 
-z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
+/ 
 
 ### Drittmaterial: 
 Font"MARTINA", Bob Marley picture, Songs:"No Woman no Cry" -Bob Marley "Could you be loved" -Bob Marley
@@ -57,7 +57,7 @@ das GameObject Main Camera per Drag & Drop auf Render Camera ziehen in der Kompo
 
 
 ### Limitationen:
--
+/
 
 ### Lessons Learned:
 - [x] random Song Auswahl
